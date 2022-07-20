@@ -4,7 +4,7 @@
 
 <h2>✒ A propos de moi</h2>
 
-<p>Après plus de 10 ans dans la mécanique et des essaies en autodidacte en développement web, je décida de franchir le pas et de faire une reconversion professionnel du haut de mes 29 ans. Tout ce qui touche à l'informatique à toujours été une passion pour moi, j'ai donc commencé par une formation de "Développeur web" chez Openclassroom et souhaites maintenant poursuivre dans cette voie et m'y perfectionner.</p><br>
+<p>Après plus de 10 ans dans la mécanique et des essaies en autodidacte en développement web, j'ai décidé de franchir le pas et de faire une reconversion professionnel du haut de mes 29 ans. Tout ce qui touche à l'informatique à toujours été une passion pour moi, j'ai donc commencé par une formation de "Développeur web" chez Openclassroom et souhaites maintenant poursuivre dans cette voie et m'y perfectionner.</p><br>
 
 <h2>👨‍💻 Mes Compétences</h2>
 
