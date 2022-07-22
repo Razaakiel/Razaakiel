@@ -26,6 +26,6 @@
        
 <h2>☕ me contacter</h2>
 
-<a href="https://www.linkedin.com/in/yoann-poulain-1a6289153/">
+<a href="https://www.linkedin.com/in/poulain-yoann-436ba0245/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50px"/>
 </a>
