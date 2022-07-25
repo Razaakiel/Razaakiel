@@ -1,6 +1,6 @@
 <h1 align='center'>👋Salut, moi c'est Yoann 👋</h1>
 
-<h2 align='center'>💻Je suis développeur Frontend💻</h2>
+<h2 align='center'>💻Je suis développeur Front-End💻</h2>
 
 <h2>✒ A propos de moi</h2>
 
