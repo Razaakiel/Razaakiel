@@ -4,7 +4,8 @@
 
 <h2>✒ A propos de moi</h2>
 
-<p>Après plus de 10 ans dans la mécanique et des essais en autodidacte en développement web, j'ai décidé de franchir le pas et de faire une reconversion professionnel du haut de mes 29 ans. Tout ce qui touche à l'informatique a toujours été une passion pour moi, j'ai donc commencé par une formation de "Développeur web" chez OpenClassrooms et souhaite maintenant poursuivre dans cette voie et m'y perfectionner.</p><br>
+<p>Après plus de 10 ans dans la mécanique et passionné par l'univers du digital, J'effectue une reconversion en Développement web avec OpenClassrooms. Cette première expérience confirma mon intérêt pour ce domaine et souhaites donc approfondir mes connaissances dans cette nouvelle voie.
+Aujourd'hui je recherche une entreprise dynamique pour effectuer une alternance avec la 3WA afin de continuer mon évolution dans ce métier.</p><br>
 
 <h2>👨‍💻 Mes Compétences</h2>
 
