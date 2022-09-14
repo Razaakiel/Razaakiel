@@ -27,6 +27,6 @@ Aujourd'hui je recherche une entreprise dynamique pour effectuer une alternance 
        
 <h2>☕ me contacter</h2>
 
-<a href="https://www.linkedin.com/in/poulain-yoann-436ba0245/">
+<a href="https://www.linkedin.com/in/yoann-poulain-developpeur-web-fullstack-alternance/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50px"/>
 </a>
