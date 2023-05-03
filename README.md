@@ -4,8 +4,8 @@
 
 <h2>✒ A propos de moi</h2>
 
-<p>Après plus de 10 ans dans la mécanique et passionné par l'univers du digital, J'ai effectué une reconversion en tant que Développeur web chez OpenClassrooms. Cette première expérience m'a confirmé mon intérêt pour ce domaine et je souhaites donc approfondir mes connaissances basé sur la pratique via l'alternance.
-Aujourd'hui je recherche une entreprise dynamique pour m'accompagner et m'aider à poursuivre mon épanouissement pour ce domaine.</p><br>
+<p>Après plus de 10 ans dans la mécanique et passionné par l'univers du digital, J'ai effectué une reconversion en tant que Développeur web chez OpenClassrooms. Cette première expérience m'a confirmé mon intérêt pour ce domaine et je souhaites donc approfondir mes connaissances.
+Je suis actuellement en formation "Concepteur Développeur d'Application (bac +3/4)" avec le Greta. Disponible au travail à partir de Décembre 2023.</p><br>
 
 <h2>👨‍💻 Mes Compétences</h2>
 
