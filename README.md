@@ -5,7 +5,7 @@
 <h2>✒ A propos de moi</h2>
 
 <p>Après plus de 10 ans dans la mécanique et passionné par l'univers du digital, J'ai effectué une reconversion en tant que Développeur web chez OpenClassrooms. Cette première expérience m'a confirmé mon intérêt pour ce domaine et je souhaites donc approfondir mes connaissances.
-Je suis actuellement en formation "Concepteur Développeur d'Application (bac +3/4)" avec le Greta. Disponible au travail à partir de Décembre 2023.</p><br>
+Je suis actuellement en formation "Concepteur Développeur d'Application (bac +3/4)" avec le Greta. J'aime travailler principalement en React en front et Node.js / Symfony en Back, mais ne suis pas contre travailler sur d'autre techno, tant que c'est dans la joie et la bonne humeur =) J'aime venir coder avec le sourire 😀<br>
 
 <h2>👨‍💻 Mes Compétences</h2>
 
