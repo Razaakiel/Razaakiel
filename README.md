@@ -1,11 +1,18 @@
 <h1 align='center'>👋Salut, moi c'est Yoann 👋</h1>
 
-<h2 align='center'>💻Je suis développeur Full Stack💻</h2>
+<h2 align='center'>💻Freelance Full Stack - Concepteur Développeur d'Application💻</h2>
 
 <h2>✒ A propos de moi</h2>
 
-<p>Après plus de 10 ans dans la mécanique et passionné par l'univers du digital, J'ai effectué une reconversion en tant que Développeur web chez OpenClassrooms. Cette première expérience m'a confirmé mon intérêt pour ce domaine et je souhaites donc approfondir mes connaissances.
-Je suis actuellement en formation "Concepteur Développeur d'Application (bac +3/4)" avec le Greta. J'aime travailler principalement en React en front et Node.js / Symfony en Back, mais ne suis pas contre travailler sur d'autres technos, tant que c'est dans la joie et la bonne humeur =) J'aime venir coder avec le sourire 😀<br>
+Développeur freelance de 31 ans et passionné par la création de solutions Web sur mesure. Avec des compétences en HTML, CSS, JavaScript, Node.js et PHP, ainsi qu'une maîtrise des frameworks React, Symfony, et Tailwind, je suis prêt à transformer vos idées en réalité numérique.
+
+Mon parcours 👨🏼‍🎓
+
+En tant que Concepteur Développeur d'Application (bac+3), je suis un professionnel ambitieux qui ne cesse de se perfectionner pour offrir les meilleures solutions à mes clients. J'ai déjà mis en place un réseau social d'entreprise au cours de ma première formation, démontrant ainsi ma capacité à relever des défis complexes.
+
+Ma philosophie de travail 🧑🏻‍💻
+
+Pour moi, le développement web est une collaboration entre le client et le développeur. Je considère chaque projet comme une opportunité d'apporter vos idées à la vie. En travaillant main dans la main, nous pourrons créer des solutions qui dépassent vos attentes.
 
 <h2>👨‍💻 Mes Compétences</h2>
 
